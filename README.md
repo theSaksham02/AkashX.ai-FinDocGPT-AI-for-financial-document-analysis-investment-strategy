@@ -1,7 +1,7 @@
 <!-- FinDocGPT — AkashX | Built for Hack‑Nation’s Global AI Hackathon (with MIT Sloan AI Club) -->
 
 <p align="center">
-  <img src="assets/hack-nation-banner.png" alt="Hack‑Nation Global AI Hackathon" width="100%" />
+  <img src="banner.png" alt="Hack‑Nation Global AI Hackathon" width="100%" />
 </p>
 
 <h1 align="center">FinDocGPT</h1>
