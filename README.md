@@ -949,4 +949,4 @@ FinDocGPT is an experimental tool built for demonstration purposes. It is not fi
   <br>
   <b>⭐ Star this repository if you found it helpful! ⭐</b>
   <br>
-  <em>© 2025 AkashX & FinDocGPT Team</em>
+  <em>© 2025 AkashX & FinDocGPT Team</em> 
